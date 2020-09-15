@@ -1,8 +1,9 @@
 body {
-    background:blue;
+    background-color: gray;
     font-family: Arial, Helvetica, sans-serif;
 }
 h1{
     font-size: 100px;
-    color: gray;
+    color: black;
+
 }
